@@ -59,11 +59,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img height="287" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh6bjQwbmF6MTN0aGF3a2phdGpnd3lpbm41cWFteWRjeTZ6ZWFiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2jjJ2gfcI1zLInC/giphy.gif"  />
-</div>
-
-###
