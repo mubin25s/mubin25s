@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubin25s&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=mubin25s&theme=dark&hide_border=true" />
 </p>
