@@ -1,1 +1,4 @@
-<h2 align="right">Hey there! it's Duck 👋!!</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mubin25s-readme-card.svg">
+  <img alt="Fathum Mubin - Developer Dashboard" src="mubin25s-readme-card.svg">
+</picture>
